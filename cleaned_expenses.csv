@@ -1,0 +1,99 @@
+Date,Category,Amount,Payment_Method,Description,Year,Month,Month_Name,Year_Month,Day_Name,Day
+2026-04-13,Shopping,698.0,UPI,Course,2026,4,April,2026-04,Monday,2026-04-13
+2026-06-29,Food,367.0,Credit Card,Groceries,2026,6,June,2026-06,Monday,2026-06-29
+2026-04-03,Shopping,1307.0,Credit Card,Course,2026,4,April,2026-04,Friday,2026-04-03
+2026-01-15,Unknown,733.0,UPI,Travel,2026,1,January,2026-01,Thursday,2026-01-15
+2026-04-17,Transport,713.0,Debit Card,Lunch,2026,4,April,2026-04,Friday,2026-04-17
+2026-03-13,Education,2048.0,Credit Card,Travel,2026,3,March,2026-03,Friday,2026-03-13
+2026-01-21,Transport,1681.0,UPI,Medicine,2026,1,January,2026-01,Wednesday,2026-01-21
+2026-04-13,Food,1545.0,Cash,Movie,2026,4,April,2026-04,Monday,2026-04-13
+2026-03-16,Education,1903.0,Cash,Groceries,2026,3,March,2026-03,Monday,2026-03-16
+2026-03-29,Food,1570.0,Cash,Course,2026,3,March,2026-03,Sunday,2026-03-29
+2026-04-27,Bills,2539.0,UPI,Movie,2026,4,April,2026-04,Monday,2026-04-27
+2026-04-10,Transport,613.0,Unknown,Course,2026,4,April,2026-04,Friday,2026-04-10
+2026-04-14,Food,1341.0,UPI,Travel,2026,4,April,2026-04,Tuesday,2026-04-14
+2026-06-01,Education,1686.0,UPI,Course,2026,6,June,2026-06,Monday,2026-06-01
+2026-05-30,Healthcare,2210.0,UPI,Movie,2026,5,May,2026-05,Saturday,2026-05-30
+2026-02-22,Entertainment,51.0,Debit Card,Medicine,2026,2,February,2026-02,Sunday,2026-02-22
+2026-01-02,Shopping,691.0,Credit Card,Travel,2026,1,January,2026-01,Friday,2026-01-02
+2026-03-29,Bills,2317.0,Cash,Medicine,2026,3,March,2026-03,Sunday,2026-03-29
+2026-06-07,Healthcare,1639.0,Cash,Groceries,2026,6,June,2026-06,Sunday,2026-06-07
+2026-02-07,Shopping,904.0,Credit Card,Travel,2026,2,February,2026-02,Saturday,2026-02-07
+2026-05-10,Shopping,1809.0,Cash,Travel,2026,5,May,2026-05,Sunday,2026-05-10
+2026-01-21,Food,2482.0,Credit Card,Travel,2026,1,January,2026-01,Wednesday,2026-01-21
+2026-06-10,Shopping,1711.0,Cash,Lunch,2026,6,June,2026-06,Wednesday,2026-06-10
+2026-02-27,Entertainment,1203.0,UPI,Course,2026,2,February,2026-02,Friday,2026-02-27
+2026-01-22,Education,1126.0,Cash,Lunch,2026,1,January,2026-01,Thursday,2026-01-22
+2026-03-30,Healthcare,1757.0,Credit Card,Lunch,2026,3,March,2026-03,Monday,2026-03-30
+2026-02-18,Shopping,2827.0,Credit Card,Groceries,2026,2,February,2026-02,Wednesday,2026-02-18
+2026-02-28,Food,1745.0,Credit Card,Movie,2026,2,February,2026-02,Saturday,2026-02-28
+2026-06-19,Entertainment,1783.0,Credit Card,Course,2026,6,June,2026-06,Friday,2026-06-19
+2026-01-15,Transport,1489.0,Credit Card,Medicine,2026,1,January,2026-01,Thursday,2026-01-15
+2026-06-24,Education,2344.0,Debit Card,Electricity,2026,6,June,2026-06,Wednesday,2026-06-24
+2026-02-20,Education,885.0,Debit Card,Travel,2026,2,February,2026-02,Friday,2026-02-20
+2026-04-18,Healthcare,252.0,Cash,Medicine,2026,4,April,2026-04,Saturday,2026-04-18
+2026-02-24,Education,172.0,Credit Card,Travel,2026,2,February,2026-02,Tuesday,2026-02-24
+2026-03-05,Shopping,450.0,Cash,Groceries,2026,3,March,2026-03,Thursday,2026-03-05
+2026-05-11,Food,816.0,Credit Card,Travel,2026,5,May,2026-05,Monday,2026-05-11
+2026-02-20,Education,343.0,Credit Card,Lunch,2026,2,February,2026-02,Friday,2026-02-20
+2026-05-15,Education,2377.0,Debit Card,Course,2026,5,May,2026-05,Friday,2026-05-15
+2026-01-21,Transport,2981.0,Debit Card,Electricity,2026,1,January,2026-01,Wednesday,2026-01-21
+2026-03-14,Transport,247.0,UPI,Shopping,2026,3,March,2026-03,Saturday,2026-03-14
+2026-06-16,Bills,1980.0,Debit Card,Travel,2026,6,June,2026-06,Tuesday,2026-06-16
+2026-01-18,Entertainment,2849.0,UPI,Medicine,2026,1,January,2026-01,Sunday,2026-01-18
+2026-05-12,Shopping,2241.0,UPI,Lunch,2026,5,May,2026-05,Tuesday,2026-05-12
+2026-03-30,Education,658.0,UPI,Shopping,2026,3,March,2026-03,Monday,2026-03-30
+2026-03-01,Education,1197.0,UPI,Electricity,2026,3,March,2026-03,Sunday,2026-03-01
+2026-01-14,Food,236.0,UPI,Shopping,2026,1,January,2026-01,Wednesday,2026-01-14
+2026-01-09,Bills,2561.0,Cash,Lunch,2026,1,January,2026-01,Friday,2026-01-09
+2026-03-31,Entertainment,1844.0,Debit Card,Course,2026,3,March,2026-03,Tuesday,2026-03-31
+2026-02-22,Bills,709.0,UPI,Course,2026,2,February,2026-02,Sunday,2026-02-22
+2026-05-10,Healthcare,2861.0,Credit Card,Movie,2026,5,May,2026-05,Sunday,2026-05-10
+2026-03-25,Entertainment,2005.0,Debit Card,Course,2026,3,March,2026-03,Wednesday,2026-03-25
+2026-04-02,Education,2500.0,Debit Card,Movie,2026,4,April,2026-04,Thursday,2026-04-02
+2026-04-21,Education,1419.0,UPI,Shopping,2026,4,April,2026-04,Tuesday,2026-04-21
+2026-06-21,Entertainment,2036.0,Cash,Groceries,2026,6,June,2026-06,Sunday,2026-06-21
+2026-01-08,Education,1584.0,UPI,Medicine,2026,1,January,2026-01,Thursday,2026-01-08
+2026-06-24,Shopping,196.0,Cash,Medicine,2026,6,June,2026-06,Wednesday,2026-06-24
+2026-02-04,Entertainment,2961.0,Credit Card,Shopping,2026,2,February,2026-02,Wednesday,2026-02-04
+2026-03-22,Bills,1784.0,Debit Card,Travel,2026,3,March,2026-03,Sunday,2026-03-22
+2026-06-13,Entertainment,1893.0,Credit Card,Travel,2026,6,June,2026-06,Saturday,2026-06-13
+2026-02-19,Education,538.0,Cash,Course,2026,2,February,2026-02,Thursday,2026-02-19
+2026-04-14,Shopping,2009.0,Cash,Medicine,2026,4,April,2026-04,Tuesday,2026-04-14
+2026-05-12,Shopping,1713.0,Credit Card,Medicine,2026,5,May,2026-05,Tuesday,2026-05-12
+2026-01-02,Healthcare,2648.0,Cash,Movie,2026,1,January,2026-01,Friday,2026-01-02
+2026-05-14,Bills,2435.0,Credit Card,Groceries,2026,5,May,2026-05,Thursday,2026-05-14
+2026-02-23,Transport,2969.0,Debit Card,Lunch,2026,2,February,2026-02,Monday,2026-02-23
+2026-04-16,Transport,690.0,Credit Card,Travel,2026,4,April,2026-04,Thursday,2026-04-16
+2026-01-04,Entertainment,1852.0,Debit Card,Medicine,2026,1,January,2026-01,Sunday,2026-01-04
+2026-02-23,Healthcare,2570.0,Credit Card,Movie,2026,2,February,2026-02,Monday,2026-02-23
+2026-05-26,Food,2019.0,Cash,Electricity,2026,5,May,2026-05,Tuesday,2026-05-26
+2026-02-13,Entertainment,2248.0,Credit Card,Movie,2026,2,February,2026-02,Friday,2026-02-13
+2026-06-11,Healthcare,1488.0,Cash,Travel,2026,6,June,2026-06,Thursday,2026-06-11
+2026-01-14,Bills,1684.0,Credit Card,Travel,2026,1,January,2026-01,Wednesday,2026-01-14
+2026-04-05,Bills,312.0,Credit Card,Movie,2026,4,April,2026-04,Sunday,2026-04-05
+2026-02-17,Bills,1837.0,UPI,Lunch,2026,2,February,2026-02,Tuesday,2026-02-17
+2026-01-15,Bills,2241.0,Cash,Shopping,2026,1,January,2026-01,Thursday,2026-01-15
+2026-02-09,Bills,2443.0,UPI,Travel,2026,2,February,2026-02,Monday,2026-02-09
+2026-03-23,Healthcare,673.0,Cash,Movie,2026,3,March,2026-03,Monday,2026-03-23
+2026-04-21,Healthcare,1066.0,UPI,Medicine,2026,4,April,2026-04,Tuesday,2026-04-21
+2026-02-22,Shopping,930.0,Debit Card,Movie,2026,2,February,2026-02,Sunday,2026-02-22
+2026-01-24,Transport,2099.0,Credit Card,Groceries,2026,1,January,2026-01,Saturday,2026-01-24
+2026-06-03,Education,2994.0,Cash,Shopping,2026,6,June,2026-06,Wednesday,2026-06-03
+2026-05-04,Bills,1377.0,Cash,Electricity,2026,5,May,2026-05,Monday,2026-05-04
+2026-02-10,Food,2351.0,Credit Card,Lunch,2026,2,February,2026-02,Tuesday,2026-02-10
+2026-06-06,Education,502.0,Cash,Course,2026,6,June,2026-06,Saturday,2026-06-06
+2026-01-15,Healthcare,1233.0,Cash,Electricity,2026,1,January,2026-01,Thursday,2026-01-15
+2026-02-14,Food,2106.0,UPI,Shopping,2026,2,February,2026-02,Saturday,2026-02-14
+2026-03-06,Food,1732.0,Cash,Shopping,2026,3,March,2026-03,Friday,2026-03-06
+2026-03-30,Food,2913.0,Debit Card,Shopping,2026,3,March,2026-03,Monday,2026-03-30
+2026-03-12,Shopping,2305.0,Debit Card,Electricity,2026,3,March,2026-03,Thursday,2026-03-12
+2026-01-09,Healthcare,1204.0,Credit Card,Medicine,2026,1,January,2026-01,Friday,2026-01-09
+2026-03-29,Food,453.0,Cash,Shopping,2026,3,March,2026-03,Sunday,2026-03-29
+2026-05-09,Bills,2249.0,Credit Card,Movie,2026,5,May,2026-05,Saturday,2026-05-09
+2026-05-16,Entertainment,2151.0,Debit Card,Electricity,2026,5,May,2026-05,Saturday,2026-05-16
+2026-03-04,Food,1746.0,Cash,Course,2026,3,March,2026-03,Wednesday,2026-03-04
+2026-05-19,Shopping,677.0,Cash,Shopping,2026,5,May,2026-05,Tuesday,2026-05-19
+2026-03-22,Education,636.0,Credit Card,Movie,2026,3,March,2026-03,Sunday,2026-03-22
+2026-05-16,Healthcare,1698.0,Debit Card,Medicine,2026,5,May,2026-05,Saturday,2026-05-16
+2026-06-12,Shopping,1493.0,Cash,Groceries,2026,6,June,2026-06,Friday,2026-06-12
